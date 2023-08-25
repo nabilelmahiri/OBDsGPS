@@ -1,4 +1,4 @@
-# OBDsGPS
+# OBD II GPS Tracker
 
 OBD ii GPS tracker is the most convenient vehicle GPS tracking device. This tracker plugs into a vehicle’s OBD II port for easy installation. The OBD ii tracker installs within seconds and runs itself. OBD tracker can be used in any car or van manufactured after 2000.
 
